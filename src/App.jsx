@@ -6,8 +6,8 @@ function App() {
   
   return (
     <>
-    <h1 className='txtcolor'>Hello World</h1>
-    <p className='txtcolor2'>AUCTION TIME</p>
+    <h1 className='txtcolor'>FANTASY GAME</h1>
+    <p className='txtcolor2'>Dive into thrill, enjoy the games and have fun.</p>
     </>
   )
 }

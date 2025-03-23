@@ -7,8 +7,9 @@ function Signin() {
   return (
     <>
     <form>
-      <h1>Signin</h1>
+      <h1>Username or Email</h1>
       <input type='text' placeholder='Username'/>
+      <h1>Password</h1>
       <input type='password' placeholder='Password'/>
       <button>Signin</button>
     </form>

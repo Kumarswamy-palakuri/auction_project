@@ -6,7 +6,9 @@ function Signup() {
   
   return (
     <>
-    <h1 className='txtcolor'>Signup</h1>
+    <h1 className='txtcolor'>Don't have an account?</h1>
+    <button>Signup</button>
+    
     </>
   )
 }
