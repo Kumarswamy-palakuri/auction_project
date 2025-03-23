@@ -6,7 +6,7 @@ function Dashboard() {
   
   return (
     <>
-    <h1 className='txtcolordashboard'>Dashboard</h1>
+    <h1 className='txtcolordashboard'>Dasboard</h1>
     </>
   )
 }
